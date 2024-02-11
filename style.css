@@ -20,7 +20,7 @@ section {
     position: relative;
     width: 400px;
     height: 450px;
-    background: transparent;
+    background: white;
     backdrop-filter: blur(90px);
     border: 2px solid white;
     border-radius: 10px;
