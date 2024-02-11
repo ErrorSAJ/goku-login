@@ -21,7 +21,7 @@ section {
     width: 400px;
     height: 450px;
     background: transparent;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(90px);
     border: 2px solid white;
     border-radius: 10px;
     display: flex;
